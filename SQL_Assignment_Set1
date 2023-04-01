@@ -1,0 +1,11 @@
+1-select * from city where POPULATION>100000 and COUNTRYCODE='USA';
+
+2-select name from city where population>120000 and countrycode='USA';
+
+3-select * from city;
+
+4-select * from city where ID=1661;
+
+5-select * from city where countrycode='JPN';
+
+6-
